@@ -348,6 +348,12 @@ Single-rate compounding intuition at 9%:
   <p><strong>For most investors, SP500 is the better core allocation than an all-in NDX100 approach.</strong></p>
   <p>NDX100 historically compounded faster, but its drawdowns were severe enough to break many investors. SP500 was usually easier to hold through stress.</p>
 
+  <p><strong>NDX100 is more timing-sensitive and more dependent on valuation and drawdown regime.</strong></p>
+  <p>It can make sense as an aggressive satellite allocation, especially when accumulated gradually during weaker valuation or deeper drawdown periods.</p>
+
+  <p><strong>DCA matters more for NDX100 than for SP500.</strong></p>
+  <p>Not because NDX100 is weak over the long run, but because its volatility and drawdowns are severe enough that staged buying can materially improve survivability and increase tolerance for bad starting luck.</p>
+
   <p><strong>Do not over-optimize contribution frequency.</strong></p>
   <p>Weekly, monthly, quarterly, and yearly schedules did not differ enough to justify complex execution. Monthly contributions are usually sufficient.</p>
 
@@ -358,6 +364,8 @@ Single-rate compounding intuition at 9%:
   <p>Weekday choice, trading-day choice, and contribution frequency matter far less than asset selection, consistency, and the ability to stay invested during deep drawdowns.</p>
 
   <p><strong>The real edge is not clever timing. It is staying alive long enough for compounding to work.</strong></p>
+
+  <p><em>This repository is a research tool and not investment advice.</em></p>
 
 </div>
 
