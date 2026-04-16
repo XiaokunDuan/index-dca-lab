@@ -25,6 +25,14 @@ Median versus worst rolling-window CAGR:
 
 ![CAGR summary](docs/assets/plot_cagr_summary.png)
 
+SP500 versus NDX100 spot-index comparison:
+
+![SP500 vs NDX100](docs/assets/plot_sp500_vs_ndx100_index.png)
+
+Historical drawdown comparison:
+
+![Drawdown comparison](docs/assets/plot_sp500_vs_ndx100_drawdowns.png)
+
 Weekly buy-day sensitivity for SPY:
 
 ![SPY weekday curves](docs/assets/plot_spy_weekly_weekday_curves.png)
