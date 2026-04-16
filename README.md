@@ -33,6 +33,10 @@ Historical drawdown comparison:
 
 ![Drawdown comparison](docs/assets/plot_sp500_vs_ndx100_drawdowns.png)
 
+Recovery math after large losses:
+
+![Drawdown recovery math](docs/assets/plot_drawdown_recovery_math.png)
+
 Weekly buy-day sensitivity for SPY:
 
 ![SPY weekday curves](docs/assets/plot_spy_weekly_weekday_curves.png)
