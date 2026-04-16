@@ -336,6 +336,31 @@ Single-rate compounding intuition at 9%:
 - High CAPE regimes still worked over very long windows, but usually at lower rates
 - This does not turn valuation into a precise timing tool, but it clearly affects forward return expectations
 
+## Practical Takeaways
+
+<div align="center">
+
+  <h3>What Actually Matters</h3>
+
+  <p><strong>Lump sum usually wins on average. DCA usually wins on survivability.</strong></p>
+  <p>DCA is not mainly about maximizing return. It is about improving tolerance for bad starting points and making the plan easier to execute.</p>
+
+  <p><strong>For most investors, SP500 is the better core allocation than an all-in NDX100 approach.</strong></p>
+  <p>NDX100 historically compounded faster, but its drawdowns were severe enough to break many investors. SP500 was usually easier to hold through stress.</p>
+
+  <p><strong>Do not over-optimize contribution frequency.</strong></p>
+  <p>Weekly, monthly, quarterly, and yearly schedules did not differ enough to justify complex execution. Monthly contributions are usually sufficient.</p>
+
+  <p><strong>High valuation is not a sell signal.</strong></p>
+  <p>It is a warning that future returns may be lower than the most optimistic historical examples.</p>
+
+  <p><strong>Small timing details matter less than people think.</strong></p>
+  <p>Weekday choice, trading-day choice, and contribution frequency matter far less than asset selection, consistency, and the ability to stay invested during deep drawdowns.</p>
+
+  <p><strong>The real edge is not clever timing. It is staying alive long enough for compounding to work.</strong></p>
+
+</div>
+
 ## Repository Layout
 
 ```text
