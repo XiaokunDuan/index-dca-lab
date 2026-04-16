@@ -11,6 +11,24 @@ It supports:
 - Local CSV workflows for verified historical index data
 - Report and chart generation for research outputs
 
+## Example Research Outputs
+
+Normalized spot-index paths from a common start date:
+
+![Normalized index paths](docs/assets/plot_indices_normalized_since_1985.png)
+
+Positive-return rate by holding horizon:
+
+![Positive return rate](docs/assets/plot_positive_rate.png)
+
+Median versus worst rolling-window CAGR:
+
+![CAGR summary](docs/assets/plot_cagr_summary.png)
+
+Weekly buy-day sensitivity for SPY:
+
+![SPY weekday curves](docs/assets/plot_spy_weekly_weekday_curves.png)
+
 ## Design Goals
 
 - Keep the backtest engine simple and auditable
